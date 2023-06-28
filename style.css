@@ -10,6 +10,9 @@ main {
   width: 600px;
   margin: 0 auto;
 }
+h1 {
+  text-align: center;
+}
 section {
   width: 100%;
 }
@@ -24,6 +27,10 @@ a {
 .featured span {
   text-transform: uppercase;
   color: red;
+}
+.img-copyright {
+  color: darkgrey;
+  text-align: center;
 }
 
 header img {
