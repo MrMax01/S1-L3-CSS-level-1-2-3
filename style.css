@@ -59,3 +59,9 @@ header p {
 header img {
   height: 50px;
 }
+
+@media (max-width: 650px) {
+  main {
+    width: 350px;
+  }
+}
