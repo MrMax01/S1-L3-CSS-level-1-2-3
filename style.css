@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  width: 600px;
+  margin: 0 auto;
+}
+section {
+  width: 100%;
+}
+.img-container img {
+  width: 100%;
+  border-radius: 10px;
+  text-shadow: 0 0 0 0;
+}
+.featured span {
+  text-transform: uppercase;
+  color: red;
+}
+
+header img {
+  height: 50px;
+}
+header p {
+  border-top: 2px solid darkblue;
+  background-color: lightblue;
+  padding: 5px;
+}
